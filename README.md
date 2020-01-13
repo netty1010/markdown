@@ -11,7 +11,18 @@
 ##### header 5
 ###### header 6
 
+
 2. 단어 강조
 - *이탤릭체* 혹은 _이탤릭체_
 - **볼드체** 혹은 __볼드체__
 - ~~취소선~~
+
+
+3. 링크
+```
+[링크제목](링크주소, 링크설명)
+링크설명은 생략가능합니다.
+```
+[떡볶이맛집](https://www.google.com/maps?client=safari&sxsrf=ACYBGNTIM2dt70iZJcQJgMM28rHSLDmNQg:1578912335244&q=떡볶이맛집&uact=5&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi1mL6hu4DnAhVtJaYKHZZtDV8Q_AUIDSgB)
+
+[떡볶이맛집](https://www.google.com/maps?client=safari&sxsrf=ACYBGNTIM2dt70iZJcQJgMM28rHSLDmNQg:1578912335244&q=떡볶이맛집&uact=5&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi1mL6hu4DnAhVtJaYKHZZtDV8Q_AUIDSgB, "떡볶이 맛집입니다.")
