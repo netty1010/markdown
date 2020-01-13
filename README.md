@@ -49,10 +49,10 @@ def test():
 
 
 6. 표
-```
-|제목|내용|설명|
-|---|---|---|
-|테스트1|*강조1*|테스트3|
-|테스트1|**강조2**|테스트3|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
-```
+| First Header | Second Header | Third Header |
+| :------------ | :-----------: | -------------------: | 
+| First row | Data | Very long data entry | 
+| Second row | **Cell** | *Cell* | 
+| Third row | Cell that spans across two columns ||
+[Table caption, works as a reference][section-mmd-tables-table1]
+
