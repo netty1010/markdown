@@ -49,10 +49,10 @@ def test():
 
 
 6. 표
-| First Header | Second Header | Third Header |
-| :------------ | :-----------: | -------------------: | 
-| First row | Data | Very long data entry | 
-| Second row | **Cell** | *Cell* | 
-| Third row | Cell that spans across two columns ||
-[Table caption, works as a reference][section-mmd-tables-table1]
+| 항목 1 | 항목 2 | 항목 3 | 항목 4 |
 
+| ---
+
+| 내용 11 | 내용 12 | 내용 13 | 내용 14 |
+
+| 내용 21 | 내용 22 | 내용 23 | 내용 24 |
