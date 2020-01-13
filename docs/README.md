@@ -48,3 +48,8 @@ def test():
 
 - 인라인 강조
 안녕하세요. 저는 개발 좀 하는 언니입니다. ```python``` 과 ```scala``` 등의 언어를 사용하고 있습니다.  
+
+
+6. quote 인용문
+> Eric raymond 는 성당과 시장에서 이런 말씀을 하셨습니다. 
+>>> Given enough eveballs, all bugs arg shallow
