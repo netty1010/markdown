@@ -29,3 +29,11 @@
 [떡볶이 맛집](https://www.google.com/maps/search/떡볶이맛집/@37.3682219,126.9475436,13z/data=!3m1!4b1)  
 [떡볶이 맛집](https://www.google.com/maps/search/떡볶이맛집/@37.3682219,126.9475436,13z/data=!3m1!4b1, "떡볶이 맛집입니다")  
 
+
+4. 이미지 
+```
+![이미지제목](이미지링크 이미지설명)
+이미지설명 또한 생략이 가능합니다. 
+```
+![떡볶이](https://lh5.googleusercontent.com/p/AF1QipNC6Q0ohDu3WM5oZkYXzp-k5RQr-wckZ9755ztf=w408-h408-k-no)
+![떡볶이](https://lh5.googleusercontent.com/p/AF1QipNC6Q0ohDu3WM5oZkYXzp-k5RQr-wckZ9755ztf=w408-h408-k-no "철이네")
