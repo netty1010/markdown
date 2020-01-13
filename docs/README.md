@@ -37,3 +37,14 @@
 ```
 ![떡볶이](https://lh5.googleusercontent.com/p/AF1QipNC6Q0ohDu3WM5oZkYXzp-k5RQr-wckZ9755ztf=w408-h408-k-no)
 ![떡볶이](https://lh5.googleusercontent.com/p/AF1QipNC6Q0ohDu3WM5oZkYXzp-k5RQr-wckZ9755ztf=w408-h408-k-no "철이네")
+
+
+5. 코드 블럭
+- 블럭 강조
+```
+def test():
+   return "개발 좀 하는 언니 대박납니다."
+```
+
+- 인라인 강조
+안녕하세요. 저는 개발 좀 하는 언니입니다. ```python``` 과 ```scala``` 등의 언어를 사용하고 있습니다.  
