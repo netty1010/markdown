@@ -30,8 +30,8 @@
 
 4. 이미지 삽입
 ```
-![이미지제목](이미지링크,이미지설명)
+![이미지제목](이미지링크 이미지설명)
 링크와 비슷합니다. 하지만 느낌표가 붙습니다
 ```
 ![떡볶이 사진](https://t1.daumcdn.net/cfile/tistory/99B6C24C5CA6ACBD02)
-![떡볶이 사진](https://t1.daumcdn.net/cfile/tistory/99B6C24C5CA6ACBD02, "떡볶이 사진이어라~")
+![떡볶이 사진](https://t1.daumcdn.net/cfile/tistory/99B6C24C5CA6ACBD02 "떡볶이 사진이어라~")
